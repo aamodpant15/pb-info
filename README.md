@@ -17,6 +17,12 @@ Features included will be:
 5. Getting immediate family
 6. More features as time goes on
 
+Login:  
+<img src="login.png" alt="Login" width="500"/>
+
+Sample Output:  
+<img src="person.png" alt="drawing" width="500"/>
+
 ### How does it work?
 
 Excel Sheet is read and converted to a JSON file. (This JSON file is a nice thing to have, and can be used for personal projects as well)
