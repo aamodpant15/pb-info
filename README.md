@@ -22,3 +22,15 @@ lineage of that person.
 Given the sensitive information of all people involved, the page is restricted with a login prompt, also created in `React`.
 
 Keeping in mind the privacy issues, here are some screenshots from the web app, with all sensitive information being censored:
+
+1. Person's info card after searching for them.
+![person's info card](1.png)
+
+2. Extended info card
+![Extended info card](2.png)
+
+3. Login Prompt
+![Login Prompt](3.png)
+
+4. Options on person's info card
+![Options on person's info card](4.png)
