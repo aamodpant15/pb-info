@@ -23,14 +23,14 @@ Given the sensitive information of all people involved, the page is restricted w
 
 Keeping in mind the privacy issues, here are some screenshots from the web app, with all sensitive information being censored:
 
-1. Person's info card after searching for them.
+1. Person's info card after searching for them.  
 ![person's info card](1.png)
 
-2. Extended info card
+2. Extended info card  
 ![Extended info card](2.png)
 
-3. Login Prompt
+3. Login Prompt (staged for screenshot, not actual credentials)  
 ![Login Prompt](3.png)
 
-4. Options on person's info card
+4. Options on person's info card  
 ![Options on person's info card](4.png)
